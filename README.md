@@ -47,16 +47,13 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Currently Learning & Building
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juha464&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juha464&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🔍 Exploring exploratory data analysis and model evaluation techniques in more depth
+- 🧪 Practicing handling imbalanced datasets (SMOTE) and hyperparameter tuning
+- 🌐 Planning to build an interactive dashboard for one of my existing projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juha464&theme=tokyonight&hide_border=true" />
-</p>
+> 📊 Want to see my activity at a glance? Check the contribution graph and pinned repos further down this profile — GitHub renders those natively, so they always stay up to date without relying on any third-party service.
 
 ---
 
