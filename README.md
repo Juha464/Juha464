@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on machine learning projects involving predictive modeling and data analysis
 - 🌱 I'm deepening my skills in **Python, scikit-learn, and data visualization**
 - 💡 I'm interested in applying ML to real-world problems in healthcare, career analytics, and content intelligence
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- 📫 Reach me at: **mahfuz300464@gmail.com**
 - ⚡ Fun fact: *(add something personal here — makes the profile memorable!)*
 
 ---
