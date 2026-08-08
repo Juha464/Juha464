@@ -62,21 +62,6 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
-
 ## 🔬 Research Highlight
 
 <div align="center">
