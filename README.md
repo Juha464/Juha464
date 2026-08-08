@@ -105,16 +105,21 @@ A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically signifi
 
 ## 🛠️ Technical Skills
 
+<table>
+<tr>
+<td valign="top" width="25%">
+
 **Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 
-<br>
+</td>
+<td valign="top" width="35%">
 
 **Machine Learning / AI**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -124,20 +129,26 @@ A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically signifi
 <img src="https://img.shields.io/badge/RAG-52616b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br><br>
+</td>
+<td valign="top" width="15%">
 
 **Database**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<br>
+</td>
+<td valign="top" width="25%">
 
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
