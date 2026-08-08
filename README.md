@@ -68,15 +68,18 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=2F3E46&center=true&vCenter=true&width=780&lines=Architectural+Complexity+vs.+Performance;in+Brain+Tumour+MRI+Classification" />
 
-**[📄 View Research Repository](https://github.com/ch-naimul/Undergrad_Thesis)**
+<a href="https://github.com/ch-naimul/Undergrad_Thesis">
+<img src="https://img.shields.io/badge/📄_VIEW_RESEARCH_REPO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-| Architectures | Max Test AUC | Cross Validation | Insertion AUC |
-|:---:|:---:|:---:|:---:|
-| **5** | **0.9998** | **5-Fold** | **0.856 – 0.878** |
+<img src="https://img.shields.io/badge/Architectures-5-2f3e46?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cross_Validation-5--Fold-2f3e46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logoColor=white"/>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=555555&center=true&vCenter=true&width=850&lines=EfficientNet-B0+→+DenseNet201+→+Dual-Backbone+Fusion;→+CBAM+%2B+Bidirectional+Cross-Attention+→+CNN–Swin+Transformer" />
 
