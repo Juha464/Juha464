@@ -62,38 +62,51 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 
 ---
 
-## 🔬 Research Highlight
-
 <div align="center">
 
-### Architectural Complexity vs. Performance in Brain Tumour MRI Classification
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
 
-<a href="https://github.com/ch-naimul/Undergrad_Thesis"><img src="https://img.shields.io/badge/VIEW%20RESEARCH%20REPO-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+## 🔬 Research Highlight
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=2F3E46&center=true&vCenter=true&width=780&lines=Architectural+Complexity+vs.+Performance;in+Brain+Tumour+MRI+Classification" />
+
+<a href="https://github.com/ch-naimul/Undergrad_Thesis">
+<img src="https://img.shields.io/badge/📄_VIEW_RESEARCH_REPO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/ch-naimul/Undergrad_Thesis/stargazers">
+<img src="https://img.shields.io/github/stars/ch-naimul/Undergrad_Thesis?style=for-the-badge&color=52616b&labelColor=111111&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="25%"><h3>5</h3>Architectures</td>
-<td align="center" width="25%"><h3>0.9998</h3>Max Test AUC</td>
-<td align="center" width="25%"><h3>5-Fold</h3>Cross Validation</td>
-<td align="center" width="25%"><h3>0.856–0.878</h3>Insertion AUC</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Architectures-5-2f3e46?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cross_Validation-5--Fold-2f3e46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=555555&center=true&vCenter=true&width=850&lines=EfficientNet-B0+→+DenseNet201+→+Dual-Backbone+Fusion;→+CBAM+%2B+Bidirectional+Cross-Attention+→+CNN–Swin+Transformer" />
 
 </div>
 
-Investigated **five progressively complex deep-learning architectures** for four-class brain tumour MRI classification on the **BRISC 2025 dataset**:
+<br>
 
-**EfficientNet-B0 → DenseNet201 → Dual-Backbone Fusion → CBAM + Bidirectional Cross-Attention → CNN–Swin Transformer**
+Investigated **five progressively complex deep-learning architectures** for four-class brain tumour MRI classification on the **BRISC 2025 dataset** — trained with **stratified 5-fold cross-validation**, **Focal Loss**, **AdamW**, **cosine annealing**, **staged backbone fine-tuning**, and **early stopping**, reaching a **max test AUC of 0.9998**.
 
-Used **stratified 5-fold cross-validation**, **Focal Loss**, **AdamW**, **cosine annealing**, **staged backbone fine-tuning**, and **early stopping**, reaching a **max test AUC of 0.9998**. Explainability was measured with **Grad-CAM++**, **Transformer Attention Rollout**, and hybrid fusion, evaluated via **Insertion/Deletion AUC** and confidence-drop metrics.
+<details>
+<summary><b>🔍 Explainability & Statistical Validation — click to expand</b></summary>
+<br>
 
-**Wilcoxon signed-rank test** results (p ≥ 0.0625) showed no statistically significant gain from added complexity — pointing to performance saturation among the evaluated pretrained CNN architectures.
+Explainability was measured with **Grad-CAM++**, **Transformer Attention Rollout**, and hybrid explanation fusion, evaluated via **Insertion/Deletion AUC** and confidence-drop metrics.
 
-> ⚠️ *Replace the repo badge link above with your actual thesis/research repository URL.*
+A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically significant gain** from added architectural complexity — pointing to performance saturation among the evaluated pretrained CNN architectures.
 
----
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:52616b,50:2f3e46,100:111111" width="100%"/>
+</div>
 
 ## 🛠️ Technical Skills
 
