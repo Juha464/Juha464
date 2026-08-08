@@ -11,7 +11,15 @@
 <a href="mailto:mahfuz300464@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+<br>
 
+<!-- ANIMATED INTRO -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330">
+
+</div>
 <br>
 
 ## 👋 About Me
