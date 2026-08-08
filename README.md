@@ -66,6 +66,10 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
+
 ## 🔬 Research Highlight
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=2F3E46&center=true&vCenter=true&width=780&lines=Architectural+Complexity+vs.+Performance;in+Brain+Tumour+MRI+Classification" />
@@ -80,9 +84,9 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 <br><br>
 
 <img src="https://img.shields.io/badge/Architectures-5-2f3e46?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cross_Validation-5--Fold-2f3e46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
 <br><br>
 
