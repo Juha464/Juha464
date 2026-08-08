@@ -69,48 +69,139 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
-
 ## 🔬 Research Highlight
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=2F3E46&center=true&vCenter=true&width=780&lines=Architectural+Complexity+vs.+Performance;in+Brain+Tumour+MRI+Classification" />
+<div align="center">
 
-<a href="https://github.com/ch-naimul/Undergrad_Thesis">
-<img src="https://img.shields.io/badge/📄_VIEW_RESEARCH_REPO-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/ch-naimul/Undergrad_Thesis/stargazers">
-<img src="https://img.shields.io/github/stars/ch-naimul/Undergrad_Thesis?style=for-the-badge&color=52616b&labelColor=111111&logo=github&logoColor=white"/>
-</a>
+### **Architectural Complexity vs. Performance in Brain Tumour MRI Classification**
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Architectures-5-2f3e46?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cross_Validation-5--Fold-2f3e46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="25%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=555555&center=true&vCenter=true&width=850&lines=EfficientNet-B0+→+DenseNet201+→+Dual-Backbone+Fusion;→+CBAM+%2B+Bidirectional+Cross-Attention+→+CNN–Swin+Transformer" />
+### 🧠 **5**
+
+**Architectures**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯 **0.9998**
+
+**Maximum Test AUC**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔄 **5-Fold**
+
+**Stratified CV**
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 **0.856–0.878**
+
+**Insertion AUC**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br>
 
-Investigated **five progressively complex deep-learning architectures** for four-class brain tumour MRI classification on the **BRISC 2025 dataset** — trained with **stratified 5-fold cross-validation**, **Focal Loss**, **AdamW**, **cosine annealing**, **staged backbone fine-tuning**, and **early stopping**, reaching a **max test AUC of 0.9998**.
+<table>
+<tr>
 
-<details>
-<summary><b>🔍 Explainability & Statistical Validation — click to expand</b></summary>
+<td width="58%" valign="top">
+
+### 🧪 Experimental Study
+
+Investigated **five progressively complex deep-learning architectures** for four-class brain tumour MRI classification using the **BRISC 2025 dataset**.
+
+The experimental pipeline incorporated:
+
+**Stratified 5-Fold Cross-Validation**
+**Focal Loss** · **AdamW** · **Cosine Annealing**
+**Staged Backbone Fine-Tuning** · **Early Stopping**
+
+The study achieved a **maximum test AUC of 0.9998**.
+
 <br>
 
-Explainability was measured with **Grad-CAM++**, **Transformer Attention Rollout**, and hybrid explanation fusion, evaluated via **Insertion/Deletion AUC** and confidence-drop metrics.
+### 🔍 Explainability
 
-A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically significant gain** from added architectural complexity — pointing to performance saturation among the evaluated pretrained CNN architectures.
+Developed a quantitative explainability framework combining:
 
-</details>
+* **Grad-CAM++**
+* **Transformer Attention Rollout**
+* **Hybrid Explanation Fusion**
+
+Attribution quality was evaluated using:
+
+**Insertion AUC** · **Deletion AUC** · **Confidence Drop**
+
+</td>
+
+<td width="42%" valign="middle">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:52616b,50:2f3e46,100:111111" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Juha464/Juha464/main/assets/research-flow.gif" width="100%" alt="Brain MRI Deep Learning Research Workflow"/>
+
+<br><br>
+
+### **CNN → Fusion → Attention → Transformer → XAI**
+
+<sub>
+Architecture • Evaluation • Explainability
+</sub>
+
 </div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📈 Key Finding
+
+**Wilcoxon signed-rank test**
+
+`p ≥ 0.0625`
+
+<br>
+
+**No statistically significant improvement was observed from increasing architectural complexity**, indicating performance saturation among the evaluated pretrained CNN architectures.
+
+</div>
+
+<br>
+
+<div align="center">
+
+**EfficientNet-B0** → **DenseNet201** → **Dual-Backbone Fusion**
+↓
+**CBAM + Bidirectional Cross-Attention** → **CNN–Swin Transformer**
+↓
+**Grad-CAM++ + Attention Rollout + Hybrid XAI**
+
+</div>
+
+---
 
 ## 🛠️ Technical Skills
 
