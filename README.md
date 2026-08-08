@@ -155,16 +155,14 @@ Five progressively complex architectures trained end-to-end on **BRISC 2025** wi
 
 ### ❤️ Heart Disease Prediction
 
-<sub>`BRFSS 2015` — 253,680 records · 22 features</sub>
+ML pipeline predicting heart disease risk on the **BRFSS 2015** dataset (253,680 records, 22 features).
 
-EDA → SMOTE → GridSearchCV → feature importance
+**EDA · SMOTE · GridSearchCV · Feature Importance**
+**71% positive-class recall**
 
-<img src="https://img.shields.io/badge/Positive_class_recall-71%25-0B1120?style=flat-square&labelColor=5EEAD4"/>
+`Python` `Pandas` `scikit-learn` `imbalanced-learn`
 
-<img src="https://img.shields.io/github/stars/Juha464/heart-disease-prediction?style=flat-square&labelColor=0B1120&color=38BDF8"/>
-<img src="https://img.shields.io/github/last-commit/Juha464/heart-disease-prediction?style=flat-square&labelColor=0B1120&color=A78BFA"/>
-
-<a href="https://github.com/Juha464/heart-disease-prediction"><img src="https://img.shields.io/badge/VIEW_REPO-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://github.com/Juha464/heart-disease-prediction"><img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -172,16 +170,13 @@ EDA → SMOTE → GridSearchCV → feature importance
 
 ### 🧭 AI Career Analysis
 
-<sub>Real AI/tech salary data — **Bangladesh**</sub>
+Career analysis tool using real **AI/tech salary data from Bangladesh**.
 
-Salary analysis · career comparison · rule-based advisory
+**Salary Analysis · Career Comparison · Rule-Based Advisory**
 
-<img src="https://img.shields.io/badge/Type-Data_Product-0B1120?style=flat-square&labelColor=818CF8"/>
+`Python` `Pandas`
 
-<img src="https://img.shields.io/github/stars/Juha464/AI-Career-Analysis-Tool.?style=flat-square&labelColor=0B1120&color=38BDF8"/>
-<img src="https://img.shields.io/github/last-commit/Juha464/AI-Career-Analysis-Tool.?style=flat-square&labelColor=0B1120&color=A78BFA"/>
-
-<a href="https://github.com/Juha464/AI-Career-Analysis-Tool."><img src="https://img.shields.io/badge/VIEW_REPO-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://github.com/Juha464/AI-Career-Analysis-Tool."><img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 
@@ -189,9 +184,20 @@ Salary analysis · career comparison · rule-based advisory
 
 ### 📊 YouTube Intelligence
 
-<sub>Engagement trend analysis at channel scale</sub>
+Analytics tool identifying content engagement patterns and high-potential channels.
 
-Engagement scoring · benchmarking · automated
+**Engagement Score · Benchmarking · Automated Visuals**
+
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+<a href="https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer"><img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+
+</tr>
+</table>
+</div>
+
 
 ## 🎓 Timeline
 
