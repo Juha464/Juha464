@@ -37,55 +37,75 @@
 </div>
 
 ---
-
 # 👋 About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
 
-### Hello, I'm Mahfuzur.
+<td width="62%" valign="top">
+
+### Hello, I'm **Mahfuzur**.
 
 I am a **Computer Science & Engineering graduate** from **Metropolitan University, Sylhet**, interested in building and evaluating intelligent systems through **Machine Learning, Deep Learning, Computer Vision, and Explainable AI**.
 
-My strongest research experience comes from my undergraduate thesis on **brain tumour MRI classification**, where I investigated whether increasing neural-network architectural complexity actually leads to meaningful performance improvements.
+<br>
 
-My work combines **deep learning, controlled experimentation, statistical validation, and quantitative explainability** rather than focusing solely on model accuracy.
+My strongest research experience comes from my undergraduate thesis on **brain tumour MRI classification**, where I investigated whether increasing **neural-network architectural complexity** actually leads to meaningful performance improvements.
 
-Currently, I'm expanding my interests toward **applied AI, RAG, LLM-based systems, and data-driven applications**.
+<br>
+
+My work combines **deep learning**, **controlled experimentation**, **statistical validation**, and **quantitative explainability** rather than focusing solely on model accuracy.
+
+<br>
+
+Currently, I'm expanding my interests toward **applied AI**, **RAG**, **LLM-based systems**, and **data-driven applications**.
 
 </td>
 
-<td width="35%" valign="middle">
+<td width="38%" valign="middle">
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<br><br>
 
 ### 🧠 Research Focus
 
 <br>
 
 **Medical AI**
-
 **Deep Learning**
-
 **Computer Vision**
-
 **Explainable AI**
-
 **Model Evaluation**
-
 **Data Analytics**
 
 <br>
 
+━━━━━━━━━━━━━━
+
+<br>
+
+<sub>Research • Experimentation • Explainability</sub>
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=Exploring+how+architecture+affects+model+performance;Making+AI+systems+more+interpretable+and+reliable;Learning+%7C+Experimenting+%7C+Building" />
+
+</div>
+
 ---
+
 
 # 🔬 Research Highlight
 
