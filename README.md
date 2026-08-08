@@ -228,7 +228,11 @@ Real AI/tech salary data from **Bangladesh**
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/38bdf8/Juha464" width="96%" alt="Contribution chart"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juha464/Juha464/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juha464/Juha464/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-snake.svg" width="96%">
+</picture>
 
 </div>
 
