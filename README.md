@@ -73,23 +73,35 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
 
 ## 🔬 Research Highlight
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=2F3E46&center=true&vCenter=true&width=780&lines=Architectural+Complexity+vs.+Performance;in+Brain+Tumour+MRI+Classification" />
 
-### Architectural Complexity vs. Performance in Brain Tumour MRI Classification
+<a href="https://github.com/ch-naimul/Undergrad_Thesis">
+<img src="https://img.shields.io/badge/📄_VIEW_RESEARCH_REPO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/ch-naimul/Undergrad_Thesis/stargazers">
+<img src="https://img.shields.io/github/stars/ch-naimul/Undergrad_Thesis?style=for-the-badge&color=52616b&labelColor=111111&logo=github&logoColor=white"/>
+</a>
 
-**[📄 View Research Repository](https://github.com/ch-naimul/Undergrad_Thesis)**
+<br><br>
 
-| Architectures | Max Test AUC | Cross Validation | Insertion AUC |
-|:---:|:---:|:---:|:---:|
-| **5** | **0.9998** | **5-Fold** | **0.856 – 0.878** |
+<img src="https://img.shields.io/badge/Architectures-5-2f3e46?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cross_Validation-5--Fold-2f3e46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
-**EfficientNet-B0 → DenseNet201 → Dual-Backbone Fusion → CBAM + Bidirectional Cross-Attention → CNN–Swin Transformer**
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=555555&center=true&vCenter=true&width=850&lines=EfficientNet-B0+→+DenseNet201+→+Dual-Backbone+Fusion;→+CBAM+%2B+Bidirectional+Cross-Attention+→+CNN–Swin+Transformer" />
 
 </div>
+
+<br>
 
 Investigated **five progressively complex deep-learning architectures** for four-class brain tumour MRI classification on the **BRISC 2025 dataset** — trained with **stratified 5-fold cross-validation**, **Focal Loss**, **AdamW**, **cosine annealing**, **staged backbone fine-tuning**, and **early stopping**, reaching a **max test AUC of 0.9998**.
 
@@ -103,7 +115,9 @@ A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically signifi
 
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:52616b,50:2f3e46,100:111111" width="100%"/>
+</div>
 
 ## 🛠️ Technical Skills
 
