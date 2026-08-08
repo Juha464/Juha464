@@ -105,17 +105,42 @@ A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically signifi
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light"/>
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=light"/>
+**Machine Learning / AI**
 
-</div>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
----
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/timm-2f3e46?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-52616b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,latex" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 ## 🚀 Featured Projects
 
