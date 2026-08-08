@@ -68,7 +68,7 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 
 ### Architectural Complexity vs. Performance in Brain Tumour MRI Classification
 
-<a href="https://github.com/Juha464/brain-tumor-mri-classification"><img src="https://img.shields.io/badge/VIEW%20RESEARCH%20REPO-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ch-naimul/Undergrad_Thesis"><img src="https://img.shields.io/badge/VIEW%20RESEARCH%20REPO-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
