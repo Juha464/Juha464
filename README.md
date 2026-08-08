@@ -148,54 +148,94 @@ Five progressively complex architectures trained end-to-end on **BRISC 2025** wi
 ## 🚀 Featured Projects
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=8B98AC&center=true&vCenter=true&width=560&lines=data+%E2%86%92+pipeline+%E2%86%92+insight;three+builds%2C+three+problems%2C+one+method" />
+
 <table>
 <tr>
 
 <td width="33%" valign="top" align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:38BDF8,100:22D3EE" width="100%"/>
+
+<sub>`[ 01 ]` &nbsp;·&nbsp; **HEALTHCARE ML**</sub>
+
 ### ❤️ Heart Disease Prediction
 
-ML pipeline predicting heart disease risk on the **BRFSS 2015** dataset (253,680 records, 22 features).
+Risk prediction over the **BRFSS 2015** survey — 253,680 records, 22 features, heavily imbalanced classes.
 
-**EDA · SMOTE · GridSearchCV · Feature Importance**
-**71% positive-class recall**
+<img src="https://img.shields.io/badge/Recall-71%25_positive_class-0B1120?style=flat-square&labelColor=38BDF8"/>
 
-`Python` `Pandas` `scikit-learn` `imbalanced-learn`
+<sub>EDA · SMOTE · GridSearchCV · feature importance</sub>
 
-<a href="https://github.com/Juha464/heart-disease-prediction"><img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Pandas-0B1120?style=flat-square&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/scikit--learn-0B1120?style=flat-square&logo=scikitlearn&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/imbalanced--learn-0B1120?style=flat-square"/>
+
+<img src="https://img.shields.io/github/stars/Juha464/heart-disease-prediction?style=flat-square&label=%E2%98%85&labelColor=0B1120&color=38BDF8"/>
+<img src="https://img.shields.io/github/last-commit/Juha464/heart-disease-prediction?style=flat-square&label=%E2%9F%B3&labelColor=0B1120&color=1F2A3C"/>
+
+<a href="https://github.com/Juha464/heart-disease-prediction"><img src="https://img.shields.io/badge/OPEN_REPO-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:5EEAD4,100:2DD4BF" width="100%"/>
+
+<sub>`[ 02 ]` &nbsp;·&nbsp; **DATA PRODUCT**</sub>
 
 ### 🧭 AI Career Analysis
 
-Career analysis tool using real **AI/tech salary data from Bangladesh**.
+Career decision tool built on real **AI/tech salary data from Bangladesh** — local numbers, not global averages.
 
-**Salary Analysis · Career Comparison · Rule-Based Advisory**
+<img src="https://img.shields.io/badge/Engine-Rule--based_advisory-0B1120?style=flat-square&labelColor=5EEAD4"/>
 
-`Python` `Pandas`
+<sub>salary analysis · role comparison · guided recommendations</sub>
 
-<a href="https://github.com/Juha464/AI-Career-Analysis-Tool."><img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=5EEAD4"/>
+<img src="https://img.shields.io/badge/Pandas-0B1120?style=flat-square&logo=pandas&logoColor=5EEAD4"/>
+<img src="https://img.shields.io/badge/NumPy-0B1120?style=flat-square&logo=numpy&logoColor=5EEAD4"/>
+
+<img src="https://img.shields.io/github/stars/Juha464/AI-Career-Analysis-Tool.?style=flat-square&label=%E2%98%85&labelColor=0B1120&color=5EEAD4"/>
+<img src="https://img.shields.io/github/last-commit/Juha464/AI-Career-Analysis-Tool.?style=flat-square&label=%E2%9F%B3&labelColor=0B1120&color=1F2A3C"/>
+
+<a href="https://github.com/Juha464/AI-Career-Analysis-Tool."><img src="https://img.shields.io/badge/OPEN_REPO-0B1120?style=for-the-badge&logo=github&logoColor=5EEAD4"/></a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:A78BFA,100:818CF8" width="100%"/>
+
+<sub>`[ 03 ]` &nbsp;·&nbsp; **ANALYTICS**</sub>
+
 ### 📊 YouTube Intelligence
 
-Analytics tool identifying content engagement patterns and high-potential channels.
+Surfaces engagement patterns and flags high-potential channels before they trend.
 
-**Engagement Score · Benchmarking · Automated Visuals**
+<img src="https://img.shields.io/badge/Output-Automated_visual_reports-0B1120?style=flat-square&labelColor=A78BFA"/>
 
-`Python` `Pandas` `Matplotlib` `Seaborn`
+<sub>engagement scoring · benchmarking · auto-generated charts</sub>
 
-<a href="https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer"><img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Pandas-0B1120?style=flat-square&logo=pandas&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Matplotlib-0B1120?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-0B1120?style=flat-square"/>
+
+<img src="https://img.shields.io/github/stars/Juha464/YouTube-Content-Intelligence-Analyzer?style=flat-square&label=%E2%98%85&labelColor=0B1120&color=A78BFA"/>
+<img src="https://img.shields.io/github/last-commit/Juha464/YouTube-Content-Intelligence-Analyzer?style=flat-square&label=%E2%9F%B3&labelColor=0B1120&color=1F2A3C"/>
+
+<a href="https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer"><img src="https://img.shields.io/badge/OPEN_REPO-0B1120?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
 
 </td>
 
 </tr>
 </table>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=520&lines=More+shipping+soon...;RAG+pipelines+%7C+XAI+tooling;Watch+this+space+%E2%AD%90" />
+
 </div>
 
 
