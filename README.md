@@ -77,7 +77,7 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 <img src="https://img.shields.io/badge/Architectures-5-2f3e46?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Max_Test_AUC-0.9998-52616b?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cross_Validation-5--Fold-2f3e46?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insertion_AUC-0.856–0.878-52616b?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
