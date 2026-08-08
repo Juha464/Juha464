@@ -1,25 +1,21 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MD%20Mahfuzur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MD%20Mahfuzur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=333333&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Medical+Image+Analysis+%7C+Computer+Vision;Explainable+AI+%7C+Model+Evaluation;Researching+Architecture+%26+Performance;Turning+Data+into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=3F3F3F&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+Deep+Learning;Medical+Image+Analysis+%7C+Computer+Vision;Explainable+AI+%7C+Model+Evaluation;Researching+Architecture+%26+Performance;Building+Data-Driven+AI+Systems" />
 
 <br><br>
 
 <a href="https://github.com/Juha464">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/mahfuzur-rahman-915248270/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:mahfuz300464@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -28,21 +24,12 @@
 
 <br>
 
-<!-- ANIMATED INTRO -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330">
-
-</div>
-
----
 # 👋 About Me
 
 <table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 ### Hello, I'm **Mahfuzur**.
 
@@ -58,15 +45,15 @@ My work combines **deep learning**, **controlled experimentation**, **statistica
 
 <br>
 
-Currently, I'm expanding my interests toward **applied AI**, **RAG**, **LLM-based systems**, and **data-driven applications**.
+Currently, I am expanding my interests toward **Applied AI**, **Retrieval-Augmented Generation (RAG)**, **LLM-based systems**, and **data-driven applications**.
 
 </td>
 
-<td width="38%" valign="middle">
+<td width="36%" valign="middle">
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
 
 <br><br>
 
@@ -75,10 +62,15 @@ Currently, I'm expanding my interests toward **applied AI**, **RAG**, **LLM-base
 <br>
 
 **Medical AI**
+
 **Deep Learning**
+
 **Computer Vision**
+
 **Explainable AI**
+
 **Model Evaluation**
+
 **Data Analytics**
 
 <br>
@@ -87,7 +79,7 @@ Currently, I'm expanding my interests toward **applied AI**, **RAG**, **LLM-base
 
 <br>
 
-<sub>Research • Experimentation • Explainability</sub>
+<sub><b>Research</b> • <b>Experimentation</b> • <b>Explainability</b></sub>
 
 </div>
 
@@ -100,12 +92,11 @@ Currently, I'm expanding my interests toward **applied AI**, **RAG**, **LLM-base
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=Exploring+how+architecture+affects+model+performance;Making+AI+systems+more+interpretable+and+reliable;Learning+%7C+Experimenting+%7C+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=700&lines=Exploring+how+architecture+affects+model+performance;Making+AI+systems+more+interpretable+and+reliable;Learning+%7C+Experimenting+%7C+Building" />
 
 </div>
 
 ---
-
 
 # 🔬 Research Highlight
 
@@ -117,47 +108,63 @@ Currently, I'm expanding my interests toward **applied AI**, **RAG**, **LLM-base
 
 <table>
 <tr>
-<td align="center">
+
+<td align="center" width="25%">
 
 ### **5**
 
-Architectures
+**Architectures**
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### **0.9998**
 
-Maximum Test AUC
+**Maximum Test AUC**
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### **5-Fold**
 
-Cross Validation
+**Cross Validation**
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### **0.856–0.878**
 
-Insertion AUC
+**Insertion AUC**
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
-My thesis investigated five progressively complex architectures, including **EfficientNet-B0, DenseNet201, dual-backbone fusion, CBAM with bidirectional cross-attention, and a CNN–Swin Transformer model**.
+<br>
 
-I also developed a quantitative XAI framework combining **Grad-CAM++, Transformer Attention Rollout, and hybrid explanation fusion**, while evaluating explanations using **Insertion AUC, Deletion AUC, and confidence-drop metrics**.
+My undergraduate thesis investigated **five progressively complex deep-learning architectures** for four-class brain tumour MRI classification using the **BRISC 2025 dataset**.
 
-Most importantly, statistical analysis using the **Wilcoxon signed-rank test** showed that increasing architectural complexity did **not** produce statistically significant improvement *(p ≥ 0.0625)*.
+The experimental progression included:
+
+**EfficientNet-B0 → DenseNet201 → Dual-Backbone Fusion → CBAM + Bidirectional Cross-Attention → CNN–Swin Transformer**
+
+<br>
+
+The study used **stratified 5-fold cross-validation**, **Focal Loss**, **AdamW**, **cosine annealing**, **staged backbone fine-tuning**, and **early stopping**, achieving a **maximum test AUC of 0.9998**.
+
+<br>
+
+For explainability, I developed a framework combining **Grad-CAM++**, **Transformer Attention Rollout**, and **hybrid explanation fusion**, evaluated using **Insertion AUC, Deletion AUC, and confidence-drop metrics**.
+
+<br>
+
+Statistical validation using the **Wilcoxon signed-rank test** showed that increasing architectural complexity produced **no statistically significant improvement (p ≥ 0.0625)**, suggesting performance saturation among the evaluated pretrained CNN architectures.
 
 ---
 
@@ -165,21 +172,21 @@ Most importantly, statistical analysis using the **Wilcoxon signed-rank test** s
 
 <div align="center">
 
-### Programming
+### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" />
-
-<br><br>
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light"/>
 
 <br><br>
 
-### Tools & Development
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light"/>
+
+<br><br>
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=light"/>
 
 </div>
 
@@ -187,9 +194,11 @@ Most importantly, statistical analysis using the **Wilcoxon signed-rank test** s
 
 <div align="center">
 
-**PyTorch** · **TensorFlow** · **scikit-learn** · **timm** · **Hugging Face Transformers**
+**PyTorch** · **TensorFlow** · **scikit-learn** · **timm**
 
-**LangChain** · **LangGraph** · **RAG** · **OpenAI API**
+**Hugging Face Transformers** · **LangChain** · **LangGraph**
+
+**Retrieval-Augmented Generation (RAG)** · **OpenAI API**
 
 **Pandas** · **NumPy** · **MongoDB** · **MySQL**
 
@@ -208,26 +217,31 @@ Most importantly, statistical analysis using the **Wilcoxon signed-rank test** s
 
 <div align="center">
 
-## ❤️
+# ❤️
 
 ### Heart Disease Prediction
 
 </div>
 
-Machine-learning pipeline for predicting heart disease risk using **253,680 health records**.
+Machine-learning pipeline for predicting heart disease risk using the **BRFSS 2015 Health Indicators dataset** containing **253,680 records and 22 features**.
+
+<br>
 
 **Highlights**
 
-* EDA & correlation analysis
-* SMOTE
+* Exploratory Data Analysis
+* Correlation analysis
+* **SMOTE** for class imbalance
 * Model comparison
-* GridSearchCV
-* Feature importance
+* **GridSearchCV**
+* Feature importance analysis
 * **71% positive-class recall**
+
+<br>
 
 **Stack**
 
-`Python` `Pandas` `scikit-learn`
+`Python` · `Pandas` · `scikit-learn` · `imbalanced-learn`
 
 <br>
 
@@ -247,13 +261,15 @@ Machine-learning pipeline for predicting heart disease risk using **253,680 heal
 
 <div align="center">
 
-## 🧭
+# 🧭
 
 ### AI Career Analysis
 
 </div>
 
-Python-based career analysis tool using real **AI/technology salary data from Bangladesh**.
+Python-based career analysis tool using real **AI/technology job salary data from Bangladesh**.
+
+<br>
 
 **Highlights**
 
@@ -261,11 +277,13 @@ Python-based career analysis tool using real **AI/technology salary data from Ba
 * AI/tech career comparison
 * Junior-level salary estimates
 * Rule-based advisory system
-* Personalized recommendations
+* Personalized career guidance
+
+<br>
 
 **Stack**
 
-`Python` `Pandas`
+`Python` · `Pandas`
 
 <br>
 
@@ -285,13 +303,15 @@ Python-based career analysis tool using real **AI/technology salary data from Ba
 
 <div align="center">
 
-## 📊
+# 📊
 
 ### YouTube Intelligence
 
 </div>
 
-Analytics tool for identifying **content engagement patterns and high-potential channels**.
+Data analytics tool for identifying **content engagement patterns and high-potential channels**.
+
+<br>
 
 **Highlights**
 
@@ -301,9 +321,11 @@ Analytics tool for identifying **content engagement patterns and high-potential 
 * Automated visualization
 * Strategic insights
 
+<br>
+
 **Stack**
 
-`Python` `Pandas` `Matplotlib`
+`Python` · `Pandas` · `Matplotlib` · `Seaborn`
 
 <br>
 
@@ -322,8 +344,6 @@ Analytics tool for identifying **content engagement patterns and high-potential 
 </tr>
 </table>
 
-Project details are based on the projects listed in your CV.
-
 ---
 
 # 🎓 Education
@@ -334,36 +354,63 @@ Project details are based on the projects listed in your CV.
 
 **Metropolitan University, Sylhet**
 
-**2025**   •   **CGPA: 3.52 / 4.00**
+**Graduated: 2025**   •   **CGPA: 3.52 / 4.00**
 
 </div>
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Training
 
-<div align="center">
+<table>
+<tr>
 
-**Python Programming & Basic Data Science — 80 Hours**
+<td width="33%" valign="top">
 
-IICT, Shahjalal University of Science & Technology
-EDGE Project · ICT Division
+### 🐍 Python & Data Science
 
-`Credential: EDGE-DSTS-126-1517-00017`
+**Python Programming and Basic Data Science — 80 Hours**
 
-<br>
+IICT, Shahjalal University of Science and Technology
+
+**EDGE Project · ICT Division**
+
+`Credential ID: EDGE-DSTS-126-1517-00017`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Deep Learning
 
 **Intro to Deep Learning**
 
-Kaggle Learn · Ryan Holbrook · March 2026
+Kaggle Learn
 
-<br>
+Instructor: **Ryan Holbrook**
+
+**Issued: March 2026**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚨 Disaster Response
 
 **First Aid & Disaster Response Camp**
 
 Metropolitan University Rover Scout Group
 
-</div>
+Collaborators:
+
+**Bangladesh Red Crescent Society**
+
+**Fire Service & Civil Defence**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -381,17 +428,21 @@ Metropolitan University Rover Scout Group
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Juha464&hide_border=true&background=ffffff&ring=111111&fire=333333&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=777777" />
+<img src="https://streak-stats.demolab.com?user=Juha464&hide_border=true&background=ffffff&ring=222222&fire=444444&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=777777"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Animation
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juha464/Juha464/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juha464/Juha464/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-snake.svg" width="95%">
+</picture>
 
 </div>
 
@@ -401,15 +452,23 @@ Metropolitan University Rover Scout Group
 
 <div align="center">
 
-**Deep Learning**
+### 🧠 Deep Learning
+
 ↓
-**Computer Vision**
+
+### 👁️ Computer Vision
+
 ↓
-**Medical Image Analysis**
+
+### 🏥 Medical Image Analysis
+
 ↓
-**Explainable AI**
+
+### 🔍 Explainable AI
+
 ↓
-**Applied AI / RAG / LLM Systems**
+
+### 🤖 Applied AI / RAG / LLM Systems
 
 </div>
 
@@ -417,10 +476,14 @@ Metropolitan University Rover Scout Group
 
 <div align="center">
 
-### "Research. Experiment. Explain. Improve."
+### **Research. Experiment. Explain. Improve.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=777777&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Always+learning.+Always+building." />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:111111,50:2f3e46,100:52616b" width="100%"/>
 
 </div>
