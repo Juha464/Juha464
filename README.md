@@ -85,7 +85,6 @@ Explainable AI&nbsp;·&nbsp;Model Evaluation&nbsp;·&nbsp;Data Analytics
 <img src="https://img.shields.io/badge/📄_VIEW_RESEARCH_REPO-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/ch-naimul/Undergrad_Thesis/stargazers">
-<img src="https://img.shields.io/github/stars/ch-naimul/Undergrad_Thesis?style=for-the-badge&color=52616b&labelColor=111111&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
