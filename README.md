@@ -28,7 +28,7 @@
 </div>
 <br>
 
-## 🧬 `model_card.yaml`
+## 🧬 `About Me`
 
 <table>
 <tr>
