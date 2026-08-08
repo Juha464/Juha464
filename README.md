@@ -114,9 +114,7 @@ A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically signifi
 **Machine Learning / AI**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
 <br>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -136,10 +134,9 @@ A **Wilcoxon signed-rank test** (p ≥ 0.0625) showed **no statistically signifi
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,latex" />
-
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
 <br>
-
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 ## 🚀 Featured Projects
