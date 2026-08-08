@@ -78,15 +78,6 @@ Currently, I'm expanding my interests toward **applied AI, RAG, LLM-based system
 
 <br>
 
-━━━━━━━━━━━━━━
-
-<br>
-
-🎓 **CSE Graduate**
-
-📊 **CGPA 3.52 / 4.00**
-
-🔬 **AI Research**
 
 </div>
 
