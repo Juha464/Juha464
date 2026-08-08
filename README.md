@@ -1,64 +1,110 @@
-# 👋 Hi, I'm Mahfuzur Rahman
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Science+%26+Engineering+Student+%F0%9F%92%BB;AI+%26+Healthcare+Researcher+%F0%9F%A7%A0;Building+Intelligent+Solutions+%F0%9F%9A%80;Exploring+Data+%7C+AI+%7C+Deep+Learning+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:334155&height=190&section=header&text=Mahfuzur%20Rahman&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Artificial+Intelligence;Computer+Science+%26+Engineering;Computer+Vision+%7C+Healthcare+AI;Building+data-driven+solutions+%F0%9F%94%AC" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00AA&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<a href="https://github.com/Juha464">
+<img src="https://img.shields.io/badge/GitHub-Juha464-0F172A?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mahfuz300464@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-164E63?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mahfuzur-rahman-915248270/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-class MahfuzurRahman:
+<table>
+<tr>
+<td width="60%" valign="top">
 
-    def __init__(self):
-        self.role = "Computer Science & Engineering Student"
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Artificial Intelligence",
-            "Healthcare AI",
-            "Data Analysis"
-        ]
+### Hi, I'm Mahfuzur 👋
 
-        self.currently_learning = [
-            "Python",
-            "Scikit-learn",
-            "Deep Learning",
-            "Data Visualization"
-        ]
+I'm a **Computer Science & Engineering student** with a growing focus on **Machine Learning, Artificial Intelligence, and Computer Vision**.
 
-        self.goal = "Build intelligent solutions for real-world problems"
+I enjoy working on projects where data can be transformed into something useful — whether that's predicting health risks, understanding content performance, or exploring AI applications in healthcare.
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
+🔬 **Research interests**
+Machine Learning • Deep Learning • Computer Vision • Explainable AI
 
+📊 **What I enjoy building**
+Predictive models • Data analysis • Classification systems • AI-powered tools
 
-me = MahfuzurRahman()
-me.say_hi()
-```
+🌱 **Currently improving**
+Python • Machine Learning • Deep Learning • Data Visualization
+
+🎯 **Long-term goal**
+To build intelligent, practical systems that solve meaningful real-world problems.
+
+</td>
+
+<td width="40%" valign="top">
+
+<div align="center">
+
+### 🧠 My Focus
+
+<br>
+
+**🤖 Artificial Intelligence**
+
+Machine Learning
+Deep Learning
+Explainable AI
+
+<br>
+
+**👁️ Computer Vision**
+
+Image Classification
+Medical Imaging
+Pattern Recognition
+
+<br>
+
+**📊 Data**
+
+Predictive Modeling
+Exploratory Analysis
+Visualization
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 What I'm Working On
 
-🔭 **Machine Learning & AI Projects**
+<div align="center">
 
-🧠 Exploring **Deep Learning and Computer Vision**
+|   🔬 Research   |      🤖 AI / ML     |      📊 Data     |
+| :-------------: | :-----------------: | :--------------: |
+|    Medical AI   | Predictive Modeling |   Data Analysis  |
+| Computer Vision |    Deep Learning    |   Visualization  |
+|  Explainable AI |    Classification   | Model Evaluation |
 
-🏥 Interested in applying AI to **Healthcare**
+</div>
 
-📊 Working with **Data Analysis & Predictive Modeling**
+<br>
 
-🔬 Exploring **Explainable AI (XAI)** and model evaluation
-
-🌱 Continuously improving my **Python & Machine Learning** skills
+* 🔭 Exploring **Machine Learning and Deep Learning** projects
+* 🧠 Learning more about **Computer Vision and Explainable AI**
+* 🏥 Interested in **AI applications in healthcare**
+* 📊 Practicing **data analysis and model evaluation**
+* 🌱 Continuously improving my **Python and ML workflow**
 
 ---
 
@@ -66,17 +112,21 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 Programming & Data
+### Languages & Data
 
-<img src="https://skillicons.dev/icons?i=python,jupyter,matlab" />
+<img src="https://skillicons.dev/icons?i=python,matlab" />
 
-### 🤖 Machine Learning & AI
+<br><br>
+
+### Machine Learning & Deep Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-### 🗄️ Tools & Technologies
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecolab" />
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </div>
 
@@ -86,95 +136,118 @@ me.say_hi()
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### ❤️ Heart Disease Prediction
+<h3 align="center">❤️ Heart Disease Prediction</h3>
 
-Machine Learning model for predicting heart disease risk using patient health data.
+<p align="center">
+Machine learning project for predicting heart disease risk using health indicators.
+</p>
 
-**Tech:**
+<div align="center">
 
-`Python` `Scikit-learn` `Jupyter`
+`Python`
+`Scikit-learn`
+`SMOTE`
+`GridSearchCV`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Juha464/heart-disease-prediction">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Explore%20Project-164E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🧭 AI Career Analysis
+<h3 align="center">🧭 AI Career Analysis</h3>
 
-AI-powered tool designed to analyze user information and recommend suitable career paths.
+<p align="center">
+An AI-powered tool designed to analyze user information and recommend suitable career paths.
+</p>
 
-**Tech:**
+<div align="center">
 
-`Python` `AI`
+`Python`
+`Artificial Intelligence`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Juha464/AI-Career-Analysis-Tool.">
-<img src="https://img.shields.io/badge/View%20Project-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20Project-334155?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 📊 YouTube Intelligence
+<h3 align="center">📊 YouTube Intelligence</h3>
 
-Analyzes YouTube engagement trends and extracts useful content insights.
+<p align="center">
+Analyzes YouTube engagement data and identifies useful content performance insights.
+</p>
 
-**Tech:**
+<div align="center">
 
-`Python` `Data Analysis`
+`Python`
+`Pandas`
+`Data Analysis`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer">
-<img src="https://img.shields.io/badge/View%20Project-FF00AA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20Project-475569?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🔬 Research & Interests
+## 🔬 Research Interests
 
 <div align="center">
 
-| 🧠 Artificial Intelligence |    👁️ Computer Vision   |
-| :------------------------: | :----------------------: |
-|      Machine Learning      |  Medical Image Analysis  |
-|        Deep Learning       | Brain MRI Classification |
-|       Explainable AI       |   Image Classification   |
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-164E63?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-155E75?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medical%20AI-334155?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-475569?style=flat-square&logoColor=white"/>
+
+<br><br>
+
+🧠 **AI**   •   👁️ **Computer Vision**   •   🏥 **Healthcare AI**
+📊 **Data Science**   •   🔬 **Research**   •   💡 **Intelligent Systems**
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juha464&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7F00FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Juha464&show_icons=true&hide_border=true&bg_color=0F172A&title_color=67E8F9&icon_color=5EEAD4&text_color=CBD5E1&ring_color=67E8F9" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juha464&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juha464&layout=compact&hide_border=true&bg_color=0F172A&title_color=67E8F9&text_color=CBD5E1" height="175"/>
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Juha464&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00AA&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=Juha464&hide_border=true&background=0F172A&ring=67E8F9&fire=5EEAD4&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
 
 </div>
 
@@ -184,7 +257,7 @@ Analyzes YouTube engagement trends and extracts useful content insights.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -194,58 +267,50 @@ Analyzes YouTube engagement trends and extracts useful content insights.
 
 <div align="center">
 
-`🐍 Python`   
-`🤖 Machine Learning`   
-`🧠 Deep Learning`   
-`👁️ Computer Vision`
-
-<br><br>
-
-`📊 Data Analysis`   
-`🔬 Explainable AI`   
-`🏥 Healthcare AI`
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more real-world AI/ML projects
-* 🔬 Continue research in Medical AI
-* 🧠 Improve Deep Learning knowledge
-* 📊 Develop stronger Data Science skills
-* 🌐 Build interactive AI-powered applications
-* 📚 Continue growing my GitHub portfolio
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mahfuz300464@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahfuzur-rahman-915248270/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Juha464">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Turning data into intelligence, one model at a time."* ✨
+🐍 **Python**    •   
+🤖 **Machine Learning**    •   
+🧠 **Deep Learning**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00AA&height=120&section=footer&animation=fadeIn" width="100%"/>
+👁️ **Computer Vision**    •   
+📊 **Data Analysis**    •   
+🔬 **Explainable AI**
+
+</div>
+
+---
+
+## 🎯 2026
+
+<div align="center">
+
+**Build → Learn → Research → Improve**
+
+<br>
+
+🚀 Build meaningful AI projects
+🔬 Explore Medical AI & Computer Vision
+🧠 Strengthen Deep Learning skills
+📊 Improve data-driven problem solving
+🌐 Develop practical AI applications
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something intelligent. 🤝
+
+<br>
+
+<a href="mailto:mahfuz300464@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-164E63?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:164E63,100:0F172A&height=110&section=footer" width="100%"/>
 
 </div>
