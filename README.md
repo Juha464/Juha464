@@ -1,182 +1,368 @@
 <div align="center">
 
-# MD Mahfuzur Rahman
+<!-- ANIMATED HEADER -->
 
-**Computer Science & Engineering | Machine Learning | Medical AI**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning;Medical+Image+Analysis+%26+Computer+Vision;Explainable+AI+%28XAI%29+%26+Model+Evaluation;Applied+Machine+Learning+%26+Data+Analytics" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MD%20Mahfuzur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mahfuz300464@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahfuzur-rahman-915248270/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Juha464)
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=333333&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning;Medical+Image+Analysis+%7C+Computer+Vision;Explainable+AI+%7C+Model+Evaluation;Researching+Architecture+%26+Performance;Turning+Data+into+Intelligent+Systems" />
+
+<br><br>
+
+<a href="https://github.com/Juha464">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahfuzur-rahman-915248270/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mahfuz300464@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br>
 
-## About Me
+<!-- ANIMATED INTRO -->
 
-I am a **Computer Science and Engineering graduate** from **Metropolitan University, Sylhet**, with a strong interest in **Machine Learning, Deep Learning, Medical Image Analysis, Explainable AI, and Data Analytics**.
+<div align="center">
 
-My main research experience is in **brain tumour MRI classification**, where I investigated how increasing **deep-learning architectural complexity** affects classification performance and explainability. My undergraduate thesis involved a controlled ablation study of progressively complex architectures, including **EfficientNet-B0, DenseNet201, dual-backbone fusion, CBAM with bidirectional cross-attention, and a CNN–Swin Transformer architecture**.
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330">
 
-I am particularly interested in building **evidence-driven machine-learning systems** rather than focusing only on predictive performance. My work therefore combines **model evaluation, statistical analysis, and quantitative explainability** to better understand how and why models perform.
+</div>
+
+---
+
+# 👋 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Hello, I'm Mahfuzur.
+
+I am a **Computer Science & Engineering graduate** from **Metropolitan University, Sylhet**, interested in building and evaluating intelligent systems through **Machine Learning, Deep Learning, Computer Vision, and Explainable AI**.
+
+My strongest research experience comes from my undergraduate thesis on **brain tumour MRI classification**, where I investigated whether increasing neural-network architectural complexity actually leads to meaningful performance improvements.
+
+My work combines **deep learning, controlled experimentation, statistical validation, and quantitative explainability** rather than focusing solely on model accuracy.
+
+Currently, I'm expanding my interests toward **applied AI, RAG, LLM-based systems, and data-driven applications**.
+
+</td>
+
+<td width="35%" valign="middle">
+
+<div align="center">
+
+### 🧠 Research Focus
 
 <br>
 
-> **Research interests:**
-> **Medical Image Analysis** · **Deep Learning** · **Model Architecture Design** · **Ablation Methodology** · **Explainable AI** · **Applied Machine Learning** · **Data Analytics**
+**Medical AI**
+
+**Deep Learning**
+
+**Computer Vision**
+
+**Explainable AI**
+
+**Model Evaluation**
+
+**Data Analytics**
+
+<br>
+
+━━━━━━━━━━━━━━
+
+<br>
+
+🎓 **CSE Graduate**
+
+📊 **CGPA 3.52 / 4.00**
+
+🔬 **AI Research**
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Research Experience
+# 🔬 Research Highlight
 
-### Undergraduate Thesis Researcher
+<div align="center">
 
-**Metropolitan University — Department of Computer Science & Engineering**
-*Aug. 2025 – Apr. 2026*
+### Architectural Complexity vs. Performance in Brain Tumour MRI Classification
 
-**Thesis:**
-*Architectural Complexity vs. Performance in Brain Tumour MRI Classification: A Systematic Ablation Study with Quantitative Explainability Evaluation*
+<br>
 
-* Designed and implemented a **controlled ablation study of five progressively complex deep-learning architectures** for four-class brain tumour MRI classification using the **BRISC 2025 dataset**.
-* Used **stratified 5-fold cross-validation**, Focal Loss, AdamW, cosine annealing, staged fine-tuning, and early stopping.
-* Achieved a **maximum test AUC of 0.9998**.
-* Performed **Wilcoxon signed-rank statistical analysis**, finding no statistically significant improvement from increased architectural complexity *(p ≥ 0.0625)*.
-* Developed a quantitative XAI framework combining **Grad-CAM++, Transformer Attention Rollout, and hybrid explanation fusion**.
-* Evaluated explanations using **Insertion AUC, Deletion AUC, and confidence-drop metrics**, with insertion AUC ranging from **0.856–0.878**.
+<table>
+<tr>
+<td align="center">
+
+### **5**
+
+Architectures
+
+</td>
+
+<td align="center">
+
+### **0.9998**
+
+Maximum Test AUC
+
+</td>
+
+<td align="center">
+
+### **5-Fold**
+
+Cross Validation
+
+</td>
+
+<td align="center">
+
+### **0.856–0.878**
+
+Insertion AUC
+
+</td>
+</tr>
+</table>
+
+</div>
+
+My thesis investigated five progressively complex architectures, including **EfficientNet-B0, DenseNet201, dual-backbone fusion, CBAM with bidirectional cross-attention, and a CNN–Swin Transformer model**.
+
+I also developed a quantitative XAI framework combining **Grad-CAM++, Transformer Attention Rollout, and hybrid explanation fusion**, while evaluating explanations using **Insertion AUC, Deletion AUC, and confidence-drop metrics**.
+
+Most importantly, statistical analysis using the **Wilcoxon signed-rank test** showed that increasing architectural complexity did **not** produce statistically significant improvement *(p ≥ 0.0625)*.
 
 ---
 
-## Technical Skills
+# 🛠️ Technical Skills
+
+<div align="center">
 
 ### Programming
 
-**Python** · **Java** · **C** · **C++**
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" />
 
-### Machine Learning & AI
+<br><br>
 
-**PyTorch** · **TensorFlow** · **scikit-learn** · **Hugging Face Transformers**
-**timm** · **LangChain** · **LangGraph** · **Retrieval-Augmented Generation (RAG)**
-**OpenAI API** · **Pandas** · **NumPy**
+### AI / Machine Learning
 
-### Data & Databases
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" />
 
-**MongoDB** · **MySQL**
+<br><br>
 
-### Tools
+### Tools & Development
 
-**Git & GitHub** · **Jupyter Notebook** · **Google Colab** · **VS Code** · **LaTeX**
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=light" />
 
----
+</div>
 
-## Selected Projects
+<br>
 
-### ❤️ Heart Disease Prediction
+<div align="center">
 
-A machine-learning pipeline developed using the **BRFSS 2015 Health Indicators dataset**, containing **253,680 records and 22 features**.
+**PyTorch** · **TensorFlow** · **scikit-learn** · **timm** · **Hugging Face Transformers**
 
-* Performed **EDA, correlation analysis, and feature scaling**.
-* Addressed severe class imbalance using **SMOTE**.
-* Compared **Logistic Regression, Decision Tree, and Random Forest** classifiers.
-* Tuned a Decision Tree using **GridSearchCV**.
-* Achieved **71% recall on the positive class**.
-* Identified **High Blood Pressure (74.6% feature importance)** and High Cholesterol as dominant predictors.
+**LangChain** · **LangGraph** · **RAG** · **OpenAI API**
 
-**Stack:** `Python` `Pandas` `scikit-learn` `imbalanced-learn`
+**Pandas** · **NumPy** · **MongoDB** · **MySQL**
 
-[View Repository →](https://github.com/Juha464/heart-disease-prediction)
+**Google Colab** · **Jupyter Notebook** · **VS Code** · **LaTeX**
+
+</div>
 
 ---
 
-### 🧭 AI Career Analysis Tool
+# 🚀 Featured Projects
 
-A Python-based tool designed to analyze **AI/technology job salary data in Bangladesh** and provide personalized career guidance.
+<table>
+<tr>
 
-* Computes average junior-level salaries across roles including **AI Engineer, ML Engineer, and SQA Engineer**.
-* Uses an **interactive rule-based advisory system**.
-* Provides career guidance based on a user's **daily AI study hours**.
+<td width="33%" valign="top">
 
-**Stack:** `Python` `Pandas` `Rule-Based AI`
+<div align="center">
 
-[View Repository →](https://github.com/Juha464/AI-Career-Analysis-Tool.)
+## ❤️
+
+### Heart Disease Prediction
+
+</div>
+
+Machine-learning pipeline for predicting heart disease risk using **253,680 health records**.
+
+**Highlights**
+
+* EDA & correlation analysis
+* SMOTE
+* Model comparison
+* GridSearchCV
+* Feature importance
+* **71% positive-class recall**
+
+**Stack**
+
+`Python` `Pandas` `scikit-learn`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Juha464/heart-disease-prediction">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+## 🧭
+
+### AI Career Analysis
+
+</div>
+
+Python-based career analysis tool using real **AI/technology salary data from Bangladesh**.
+
+**Highlights**
+
+* Salary analysis
+* AI/tech career comparison
+* Junior-level salary estimates
+* Rule-based advisory system
+* Personalized recommendations
+
+**Stack**
+
+`Python` `Pandas`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Juha464/AI-Career-Analysis-Tool.">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+## 📊
+
+### YouTube Intelligence
+
+</div>
+
+Analytics tool for identifying **content engagement patterns and high-potential channels**.
+
+**Highlights**
+
+* Engagement Score
+* Short vs. Long-form analysis
+* Channel benchmarking
+* Automated visualization
+* Strategic insights
+
+**Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+Project details are based on the projects listed in your CV.
 
 ---
 
-### 📊 YouTube Content Intelligence Analyzer
+# 🎓 Education
 
-A data-analysis project that transforms YouTube channel metrics into measurable engagement insights.
-
-* Processes **views, likes, comments, and video length**.
-* Calculates an **Engagement Score** for each video.
-* Categorizes content into **Short-form and Long-form** using a 20-minute threshold.
-* Identifies channels exceeding an engagement benchmark.
-* Generates automated visualizations and a strategic insights report.
-
-**Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
-
-[View Repository →](https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer)
-
----
-
-## Education
+<div align="center">
 
 ### B.Sc. in Computer Science & Engineering
 
 **Metropolitan University, Sylhet**
-**Graduated: 2025** · **CGPA: 3.52 / 4.00**
+
+**2025**   •   **CGPA: 3.52 / 4.00**
+
+</div>
 
 ---
 
-## Certifications & Additional Training
-
-* **Python Programming and Basic Data Science — 80 Hours**
-  IICT, Shahjalal University of Science and Technology (SUST), under the EDGE Project, ICT Division
-  *Issued: Dec. 2024*
-  **Credential ID:** `EDGE-DSTS-126-1517-00017`
-
-* **Intro to Deep Learning** — Kaggle Learn
-  Instructor: Ryan Holbrook · *Issued: Mar. 2026*
-
-* **First Aid & Disaster Response Camp**
-  Metropolitan University Rover Scout Group, in collaboration with Bangladesh Red Crescent Society and Fire Service & Civil Defence
-
----
-
-## Current Focus
-
-```text
-Machine Learning
-       │
-       ├── Deep Learning
-       │
-       ├── Computer Vision
-       │      └── Medical Image Analysis
-       │
-       ├── Explainable AI
-       │
-       ├── Model Evaluation
-       │      └── Ablation & Statistical Analysis
-       │
-       └── Applied AI
-              ├── RAG
-              ├── LLM Applications
-              └── Data Analytics
-```
-
----
-
-## GitHub Activity
+# 🏆 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juha464&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=333333&text_color=444444" height="170"/>
+**Python Programming & Basic Data Science — 80 Hours**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juha464&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444" height="170"/>
+IICT, Shahjalal University of Science & Technology
+EDGE Project · ICT Division
+
+`Credential: EDGE-DSTS-126-1517-00017`
+
+<br>
+
+**Intro to Deep Learning**
+
+Kaggle Learn · Ryan Holbrook · March 2026
+
+<br>
+
+**First Aid & Disaster Response Camp**
+
+Metropolitan University Rover Scout Group
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Juha464&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=333333&text_color=444444" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juha464&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444" height="180"/>
 
 </div>
 
@@ -184,17 +370,35 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Juha464&hide_border=true&background=ffffff&ring=333333&fire=555555&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=777777" />
+<img src="https://streak-stats.demolab.com?user=Juha464&hide_border=true&background=ffffff&ring=111111&fire=333333&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=777777" />
 
 </div>
 
 ---
 
-## Contribution Activity
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Juha464/Juha464/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+**Deep Learning**
+↓
+**Computer Vision**
+↓
+**Medical Image Analysis**
+↓
+**Explainable AI**
+↓
+**Applied AI / RAG / LLM Systems**
 
 </div>
 
@@ -202,10 +406,10 @@ Machine Learning
 
 <div align="center">
 
-### Building with data. Learning through research. Improving through experimentation.
+### "Research. Experiment. Explain. Improve."
 
 <br>
 
-**Mahfuzur Rahman**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=gradient" width="100%"/>
 
 </div>
