@@ -150,45 +150,48 @@ Five progressively complex architectures trained end-to-end on **BRISC 2025** wi
 <div align="center">
 <table>
 <tr>
-<td>
-<a href="https://github.com/Juha464/heart-disease-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juha464&repo=heart-disease-prediction&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA&border_color=1F2A3C" width="400"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/Juha464/AI-Career-Analysis-Tool.">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juha464&repo=AI-Career-Analysis-Tool.&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA&border_color=1F2A3C" width="400"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
 
-`BRFSS 2015` · 253,680 records · 22 features
-**SMOTE + GridSearchCV → 71% positive-class recall**
+<td width="33%" valign="top" align="center">
 
-</td>
-<td align="center">
+### ❤️ Heart Disease Prediction
 
-Real AI/tech salary data from **Bangladesh**
-**Salary analysis · career comparison · rule-based advisory**
+<sub>`BRFSS 2015` — 253,680 records · 22 features</sub>
+
+EDA → SMOTE → GridSearchCV → feature importance
+
+<img src="https://img.shields.io/badge/Positive_class_recall-71%25-0B1120?style=flat-square&labelColor=5EEAD4"/>
+
+<img src="https://img.shields.io/github/stars/Juha464/heart-disease-prediction?style=flat-square&labelColor=0B1120&color=38BDF8"/>
+<img src="https://img.shields.io/github/last-commit/Juha464/heart-disease-prediction?style=flat-square&labelColor=0B1120&color=A78BFA"/>
+
+<a href="https://github.com/Juha464/heart-disease-prediction"><img src="https://img.shields.io/badge/VIEW_REPO-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
 
 </td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/Juha464/YouTube-Content-Intelligence-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juha464&repo=YouTube-Content-Intelligence-Analyzer&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA&border_color=1F2A3C" width="400"/>
-</a>
-</td>
-<td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=380&lines=More+shipping+soon...;RAG+pipelines+%7C+XAI+tooling;Watch+this+space+%E2%AD%90" />
+<td width="33%" valign="top" align="center">
+
+### 🧭 AI Career Analysis
+
+<sub>Real AI/tech salary data — **Bangladesh**</sub>
+
+Salary analysis · career comparison · rule-based advisory
+
+<img src="https://img.shields.io/badge/Type-Data_Product-0B1120?style=flat-square&labelColor=818CF8"/>
+
+<img src="https://img.shields.io/github/stars/Juha464/AI-Career-Analysis-Tool.?style=flat-square&labelColor=0B1120&color=38BDF8"/>
+<img src="https://img.shields.io/github/last-commit/Juha464/AI-Career-Analysis-Tool.?style=flat-square&labelColor=0B1120&color=A78BFA"/>
+
+<a href="https://github.com/Juha464/AI-Career-Analysis-Tool."><img src="https://img.shields.io/badge/VIEW_REPO-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
 
 </td>
-</tr>
-</table>
-</div>
+
+<td width="33%" valign="top" align="center">
+
+### 📊 YouTube Intelligence
+
+<sub>Engagement trend analysis at channel scale</sub>
+
+Engagement scoring · benchmarking · automated
 
 ## 🎓 Timeline
 
@@ -215,12 +218,17 @@ Real AI/tech salary data from **Bangladesh**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juha464&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=5EEAD4&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juha464&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juha464&theme=github_dark" width="88%"/>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Juha464&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=5EEAD4&currStreakNum=E6EDF7&sideLabels=8B98AC&sideNums=E6EDF7&dates=64748B&stroke=1F2A3C" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juha464&theme=github_dark" height="195"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juha464&theme=github_dark" height="195"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juha464&theme=github_dark" height="195"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juha464&theme=github_dark&utcOffset=6" height="195"/>
 
 </div>
 
